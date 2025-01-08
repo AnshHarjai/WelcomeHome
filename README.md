@@ -1,6 +1,6 @@
 # CS-GY 6083: Principles of Database Systems - Database Management System for Order and Donation Handling
 
-This repository contains the implementation of **Database Management System for Order and Donation Handling ** for the course **Principles of Database Systems (CS-GY 6083)** at **NYU Tandon School of Engineering**.
+This repository contains the implementation of **Database Management System for Order and Donation Handling** for the course **Principles of Database Systems (CS-GY 6083)** at **NYU Tandon School of Engineering**.
 
 ## Overview
 
